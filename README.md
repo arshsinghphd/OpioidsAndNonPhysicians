@@ -13,7 +13,7 @@ I am Arsh Singh, my PhD is in Applied Microeconomonics, and I am interested in a
   <details>
   <summary>Data Sources</summary>
   I am using ARCOS dataset cleaned and made avaliable by WaPo. The dataset spans 2006-2012 and follows every pill prescribed. 
-  <details>
+  </details>
 
   <details>
   <summary>Statistical Techniques/Skills</summary>
@@ -21,4 +21,4 @@ I am Arsh Singh, my PhD is in Applied Microeconomonics, and I am interested in a
   I show visuals that confirm RD.
   </details>
   
-<details>
+</details>
