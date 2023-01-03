@@ -6,7 +6,8 @@ Project Title: Opioids And Non-Physician Prescriptive Powers
 I am Arsh Singh, my PhD is in Applied Microeconomonics, and I am interested in applied data science. 
 </details>
 
-About This Project
+About This Project:
+
 In this project I am testing my hypothesis that laws allowing non-physicians like Physician's Assistant and Nurse Practitioners may have contributed to the opioid crisis. 
 
 <details>
