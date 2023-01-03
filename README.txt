@@ -13,4 +13,5 @@ I am using ARCOS dataset cleaned and made avaliable by WaPo. The dataset spans 2
 
 
 _Statistical Techniques/Skills_
-I am going to infer causality using regression discontinuity. 
+I am going to infer regression discontinuity (RD) using panel regressions.
+I show visuals that confirm RD.
