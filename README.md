@@ -36,14 +36,14 @@ In this project I am testing my hypothesis that laws allowing non-physicians lik
 
 <details>
   <summary>Statistical Techniques/Skills</summary>
-  I am going to infer regression discontinuity (RD) using panel regressions.
-  I show visuals that confirm RD and show panel regressions with robust covariance and fixed effects that confirms a regression discontinuity.
+  Panel regressions with robust covariance  (fixed-effects and random-effects) that confirms a regression discontinuity. 
 </details>
 
 <details>
   <summary>Main Results</summary>
+  Since all these laws are passed around the same time, the visuals can be misleading, but I show one image that confirm RD. I mostly rely on panel regressions with robust covariance  (fixed effects and random effects) that confirms a regression discontinuity. 
   For the states and the time period I analyze, passage of these laws explain 98+% of variation in the data. <br>
-  When I analyze the laws individually, each law seems to have very similar effects on the way the opioids are prescribed. As soon as the law is passed the prescription reduces, but comes back to the previous levels at a very fast rate and marginally increases this rate.  <br>
+  When I analyze the laws individually, each law seems to have different effects on the way the opioids are prescribed. Allowing PAs to prescribe increases opioid prescriptions at the b<br>
   When I analyze all the laws together, allowing NPs to prescribe seems to have the largest impact.
 </details>
 
