@@ -6,7 +6,7 @@ Opioids And Non-Physicians' Prescriptive Powers
 I am Arsh Singh, my PhD is in Applied Microeconomics, and I am interested in applied data science.
 </details>
 
-GOAL:
+GOAL:<br>
 In this project I am testing my hypothesis that laws allowing non-physicians like Physician's Assistant and Nurse Practitioners may have contributed to the opioid crisis. This refers to three kinds of increased freedoms for non-physicians:  Physician's Assistant (PA) can prescribe Schedule II drugs, Nurse Practitioners (NP) can Prescribe Schedule II drugs such as opioids, and NP no longer needs physician's (MD) oversight for prescriptions.
 
 <details>
