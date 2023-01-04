@@ -43,7 +43,7 @@ In this project I am testing my hypothesis that laws allowing non-physicians lik
   <summary>Main Results</summary>
   Since all these laws are passed around the same time, the visuals can be misleading, but I show one image that confirm RD. I mostly rely on panel regressions with robust covariance  (fixed effects and random effects) that confirms a regression discontinuity. <br>
   For the states and the time period I analyze, passage of these laws explain 98+% of variation in the data. <br>
-  When I analyze all the laws together, allowing NPs to prescribe seems to have the largest impact. Two laws, that allow PAs to prescribe and reduce MD supervision, seem to increases opioid prescriptions at the beginning and then are associated with a decrease. Allowing NPs to prescribe however, seems to reduce the prescription at the beginning and the is associated with large increasing trends.<br>
+  When I analyze all the laws together, allowing NPs to prescribe seems to have the largest impact. Allowing PAs to prescribe and reducing MD supervision seem to increases opioid prescriptions at the beginning and are associated with a decrease per month. Allowing NPs to prescribe however, seems to reduce the prescription at the beginning and the is associated with large increasing trends.<br>
 </details>
 
 
